@@ -1,7 +1,7 @@
 # Strange project from freecodecamp
 in process
 ### freeCodeCamp - Information Security Projects - Port Scanner
-
+[![page of project](https://www.freecodecamp.org/learn/information-security/information-security-projects/port-scanner)]
 ### Assignment
 
 Create a port scanner using Python.
